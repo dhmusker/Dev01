@@ -1,0 +1,11 @@
+<aura:component >
+	<p>The core need (and all other needs and reasons) will fit into one of four categories: 
+        <ol>
+            <li>To generate revenue/profit</li>
+            <li>To save costs</li>
+            <li>To contribute to a strategic objective and/or a defined priority (e.g., a foundation platform for improvement)</li>
+            <li>To satisfy requirements (e.g., regulatory compliance)</li>
+        </ol>
+    </p>
+    <p>It is vital that the project team maintain clear sight of the core need and reason for their project, and how it impacts other needs and anticipated benefits, from project Initiation through to the detail of the Planning and Execution phases and project Closure. Ensure that this is discussed and understood in your kick-off meeting. From the identification of the core need, you need to take action to ensure that it drives and shapes the project's direction.</p>
+</aura:component>
