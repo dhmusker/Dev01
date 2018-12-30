@@ -7,7 +7,7 @@ public with sharing class AccountTriggerHandler {
 	//
 	// constructor
 	//
-    public CaseTriggerHandler(boolean isExecuting, integer size) {
+    public AccountTriggerHandler(boolean isExecuting, integer size) {
         myIsExecuting = isExecuting;
         BatchSize = size;
     }
